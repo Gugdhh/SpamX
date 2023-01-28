@@ -15,7 +15,7 @@
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "20256702",
         "required": true
       },
       "ALIVE_PIC": {
@@ -25,12 +25,12 @@
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "c81d1c06212c1c9624f44e159c651a5c",
         "required": true
       },
       "CLIENT": {
         "description": "Pyrogram String Session Or Bot Token",
-        "value": "",
+        "value": "5740900998:AAEqvsaXsACqV0pvMauaAfU3XX-2qN63x2s",
         "required": true
       },
       "CLIENT2": {
@@ -135,12 +135,12 @@
         },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5846541835",
             "required": true
         },
       "LOGS_CHANNEL": {
             "description": "Logs Group ID (Make A Private Group And Add Your All Spam id Their)",
-            "value": "",
+            "value": "-1001855008484",
             "required": false
         },
       "HNDLR": {
